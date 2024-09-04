@@ -1,8 +1,10 @@
-# React + Vite
+# Cabshare
+A website (Maybe an app afterwards) pertaining only to my college students for now. In the app, you can share your travel details to the airport, stations or bus stops. So that people can pool a cab ride together and not have to go through the difficulty of finding a cab partner.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The website will not have a login page as of now since it will be hard to maintain that database for now. I am still learning. It will be a general know all. 
 
-Currently, two official plugins are available:
+For now i am thinking of just making the bare bones of the app and adding login and messaging features later in the app. 
+Maybe adding a feature to add your phone number will be too much, so i am thinking of adding the social profile instead. Makes it far better.
+Although there willl still be an option of adding your phone numbers but at your own risk. Not recommended.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Also i will look into how to change this readme file to look better.
