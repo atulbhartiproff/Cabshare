@@ -18,6 +18,7 @@ export default function BottomActionsCard() {
         // to make the card resizable
         overflow: "auto",
         resize: "horizontal",
+        padding: "1rem",
       }}
     >
       <Box
